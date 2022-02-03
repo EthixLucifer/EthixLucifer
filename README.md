@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthixLucifer
-- 👀 I’m interested in ... Content Writing,Data Analysis, Penetration Testing,Data Entry
-- 🌱 I’m currently learning ...Diploma in Information Technology
+- 👀 I’m interested in ... Blockchain Development, Content Writing, Penetration Testing
+- 🌱 I’ve finished ...Diploma in Information Technology with 90%
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
