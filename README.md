@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EthixLucifer
 - 👀 I’m interested in ... Blockchain Development, Content Writing, Penetration Testing
-- 🌱 I’ve finished ...Diploma in Information Technology with 90%
-- 💞️ I’m looking to collaborate on real-world startup projects
+- 🌱 I’ve finished ...Diploma in Information Technology
+- 💞️ I’m looking to development opportunities.
 - 📫 reach me ... via ethix.live
 
 <!---
